@@ -8,8 +8,8 @@ BCA 5th Sem Projects - Machine Learning, Big Data Analytics, IoT Using Python Fo
 | Project Name | Subject | Link to Code |
 | --- | --- | --- |
 | House Price Prediction | Machine Learning | [Click Here](./Project-1-ML-House-Price/house_price.py) |
-| Sales Data Cleaning | Big Data Analytics | [Click Here](./Project-2-Big-Data/sales_cleaning.py) |
-| IoT Sensor Graph | IoT & Python | [Click Here](./Project-3-IoT/iot_graph.py) |
+| Student Data EDA | Big Data Analytics | [Click Here](./Project-2-EDA-Student-Data/student_analysis.py) |
+| Sales Visualization | IoT & Python | [Click Here](./Project-3-Visualization-Sales/sales_chart.py) |
 
 ### 🛠️ Skills
 Python | Pandas | Scikit-Learn | Matplotlib | GitHub
